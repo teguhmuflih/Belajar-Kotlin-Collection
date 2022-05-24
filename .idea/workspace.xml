@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaa8a848-41d4-4c3e-ab08-5ebe5488a194" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Iterable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableCollection.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableIterable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableSet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Pair.kt" afterDir="false" />
+    <list default="true" id="eaa8a848-41d4-4c3e-ab08-5ebe5488a194" name="Changes" comment="day 2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Conversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/ForEach.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/ListIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableListIterator.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/app/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/app/List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/app/MutableList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/app/Set.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/app/Set.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/data/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/data/Person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +42,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MutableIterableKt">
-    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.CollectionsKt" />
+  <component name="RunManager" selected="Kotlin.ForEachKt">
+    <configuration name="ForEachKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.ForEachKt" />
       <module name="Belajar-Kotlin-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.MutableCollectionKt" />
+    <configuration name="ListIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.ListIteratorKt" />
       <module name="Belajar-Kotlin-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.MutableMapKt" />
+    <configuration name="MutableListIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.MutableListIteratorKt" />
       <module name="Belajar-Kotlin-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForEachKt" />
+        <item itemvalue="Kotlin.MutableListIteratorKt" />
+        <item itemvalue="Kotlin.ListIteratorKt" />
         <item itemvalue="Kotlin.MutableIterableKt" />
         <item itemvalue="Kotlin.IterableKt" />
-        <item itemvalue="Kotlin.MutableCollectionKt" />
-        <item itemvalue="Kotlin.CollectionsKt" />
-        <item itemvalue="Kotlin.MutableMapKt" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652875062353</updated>
     </task>
+    <task id="LOCAL-00001" summary="day 2">
+      <created>1653183369898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653183369898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
   </component>
 </project>
