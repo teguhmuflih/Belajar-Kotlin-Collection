@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaa8a848-41d4-4c3e-ab08-5ebe5488a194" name="Changes" comment="day 2">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Conversion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/ForEach.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/ListIterator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/MutableListIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Filtering.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Partitioning.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/PlusMinusOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/StringRepresentation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Testing.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/u072861/IdeaProjects/Belajar-Kotlin-Collection&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.ForEachKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.TestingKt">
+    <configuration name="FilteringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.FilteringKt" />
+      <module name="Belajar-Kotlin-Collection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForEachKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.ForEachKt" />
       <module name="Belajar-Kotlin-Collection" />
@@ -50,29 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.IterableKt" />
+    <configuration name="PartitioningKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.PartitioningKt" />
       <module name="Belajar-Kotlin-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.ListIteratorKt" />
+    <configuration name="StringRepresentationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.StringRepresentationKt" />
       <module name="Belajar-Kotlin-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableIterableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.MutableIterableKt" />
-      <module name="Belajar-Kotlin-Collection" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MutableListIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.MutableListIteratorKt" />
+    <configuration name="TestingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.TestingKt" />
       <module name="Belajar-Kotlin-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestingKt" />
+        <item itemvalue="Kotlin.PartitioningKt" />
+        <item itemvalue="Kotlin.FilteringKt" />
+        <item itemvalue="Kotlin.StringRepresentationKt" />
         <item itemvalue="Kotlin.ForEachKt" />
-        <item itemvalue="Kotlin.MutableListIteratorKt" />
-        <item itemvalue="Kotlin.ListIteratorKt" />
-        <item itemvalue="Kotlin.MutableIterableKt" />
-        <item itemvalue="Kotlin.IterableKt" />
       </list>
     </recent_temporary>
   </component>
